@@ -10,7 +10,10 @@
 
 ## Tableau Public Viz
 
-### Public URL:
+### Link to Dataset: 
+https://data.healthcare.gov/dataset/5k5i-wzex 
+
+### Public Viz URL:
 https://public.tableau.com/views/issuer_partnerships_dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ### Images of Public Viz:
